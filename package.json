@@ -1,0 +1,35 @@
+{
+  "name"            : "resolve-property",
+  "version"         : "1.0.0",
+  "description"     : "Safely reach into a nested object and retrieve a property",
+  "license"         : "MIT",
+  "repository"      : {
+    "type" : "git",
+    "url"  : "https://github.com/luthraG/resolve-property.git"
+  },
+  "bugs"            : {
+    "url" : "https://github.com/luthraG/resolve-property/issues"
+  },
+  "scripts"         : {
+    "test": "node test.js"
+  },
+  "author"          : {
+    "name"  : "Gaurav Luthra",
+    "email" : "luthra.zenith@gmail.com"
+  },
+  "engines"         : {
+    "node": ">=0.10.0"
+  },
+  "files"           : [
+    "index.js"
+  ],
+  "keywords"        : [
+    "resolve-property",
+    "get property",
+    "get method",
+    "get value",
+    "resolve value",
+    "resolve",
+    "retrieve property"
+  ]
+}
